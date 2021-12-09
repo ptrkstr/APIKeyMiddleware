@@ -7,12 +7,10 @@
       <p>
           <a href="https://swiftpackageindex.com/ptrkstr/APIKeyMiddleware"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fptrkstr%2FAPIKeyMiddleware%2Fbadge%3Ftype%3Dplatforms"/></a>
           <a href="https://swiftpackageindex.com/ptrkstr/APIKeyMiddleware"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fptrkstr%2FAPIKeyMiddleware%2Fbadge%3Ftype%3Dswift-versions"/></a>
-      </p>
-      <p>
+			<br>
           <a href="https://github.com/ptrkstr/APIKeyMiddleware/actions/workflows/Code Coverage.yml"><img src="https://github.com/ptrkstr/APIKeyMiddleware/actions/workflows/Code Coverage.yml/badge.svg"/></a>
           <a href="https://codecov.io/gh/ptrkstr/APIKeyMiddleware"><img src="https://codecov.io/gh/ptrkstr/APIKeyMiddleware/branch/develop/graph/badge.svg?token=GNSQ1JNEZH"/></a>          
-      </p>
-      <p>
+			<br>
           <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/Vapor Version-4-blue.svg" alt="Minimum Supported Vapor Version is 4"/></a>
           <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fptrkstr%2FAPIKeyMiddleware&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
       </p>
@@ -23,11 +21,12 @@
 </div>
 
 
+
 ## Features
 
-- 😯 Supports an array of keys
-- ❗️ Supports overriding thrown errors
-- 💯 100% Test Coverage
+- ✅ Supports an array of keys
+- ✅ Supports overriding thrown errors
+- ✅ 100% Test Coverage
 
 ## Usage
 
